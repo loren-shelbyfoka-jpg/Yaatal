@@ -1,0 +1,9 @@
+.yaatal-storage/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+Thumbs.db
+.DS_Store
